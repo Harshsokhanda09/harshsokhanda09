@@ -36,13 +36,7 @@ Email Me 👉 ✉️ **harshsokhanda.kr@gmail.com** For Collaboration/Project or
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshsokhanda09&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshsokhanda09&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshsokhanda09&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harshsokhanda09&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Harshsokhanda09&limit=5&theme=default&combine_all_yearly_contributions=true)
