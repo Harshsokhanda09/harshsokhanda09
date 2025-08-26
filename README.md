@@ -5,16 +5,6 @@ I’m a passionate developer who loves building full-stack applications. Current
 
 Email Me 👉 ✉️ **harshsokhanda.kr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-## 🛠️ Tech Stack
-
-- **Frontend:** React.js, Next.js, Redux, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL (basic), JWT Auth  
-- **Database:** MongoDB, Mongoose  
-- **DevOps & Tools:** Git, GitHub, Postman, Docker (basic), Vercel, Netlify, Render  
-- **Others:** API Integration, Responsive Design, Performance Optimization, Agile Practices
-
-
-
 - 🔭 **I’m currently working on:** A full-stack e-commerce platform using MERN + Next.js + TailwindCSS  
 - 🌱 **I’m currently learning:** TypeScript, Next.js (Advanced), and System Design  
 - 👯 **I’m looking to collaborate on:** Open-source MERN/Next.js projects and real-world SaaS applications  
