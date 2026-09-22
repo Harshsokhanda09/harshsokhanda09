@@ -5,7 +5,7 @@ I’m a passionate developer who loves building full-stack applications. Current
 
 Email Me 👉 ✉️ **harshsokhanda.kr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** A full-stack e-commerce platform using MERN + Next.js + TailwindCSS  
+- 🔭 **I’m currently working on:** A full-stack e-commerce platform using MERN + TailwindCSS  
 - 🌱 **I’m currently learning:** TypeScript, Next.js (Advanced), and System Design  
 - 👯 **I’m looking to collaborate on:** Open-source MERN/Next.js projects and real-world SaaS applications  
 - 🤔 **I’m looking for help with:** Best practices for scaling backend applications and DevOps workflows  
